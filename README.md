@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Axton Cahyadi</h1>
-<h3 align="center">Final year CompSci student who loves building code and analyzing data</h3>
+<h3 align="center">Final year CompSci student at University of Sydney who loves building code and analyzing data</h3>
 
 <a href="https://github.com/Axtonn/Project-list">My Project List</a>
 <br>
