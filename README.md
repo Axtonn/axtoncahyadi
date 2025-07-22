@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Axton Cahyadi</h1>
 <h3 align="center">Final year CompSci student who loves building code and analyzing data</h3>
 
+<a href="https://github.com/Axtonn/Project-list">My Project List</a>
+
 - 🔭 I’m currently working on **Kaggle dataset problems**
 
 - 🌱 I’m currently learning **Data Science tools**
