@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Axton Cahyadi</h1>
-<h3 align="center">Final year CompSci student at University of Sydney who loves building code and analyzing data</h3>
+<h3 align="center">Final year CompSci student at University of Sydney who loves building websites and making use of data.</h3>
 
 <a href="https://github.com/Axtonn/Project-list">My Project List</a>
 <br>
 <a href="https://drive.google.com/drive/folders/13z_P0sAeQmQ9jQTg1x1oqx_2B4zYhv8T?usp=drive_link">Certifications</a>
 
-- 🔭 I’m currently working on **Kaggle dataset problems**
+- 🔭 I’m currently working on **<a href="https://github.com/Axtonn/BakeADay">A Bake A Day Website</a>**
 
 - 🌱 I’m currently learning **Data Science tools**
 
 - 👯 I’m looking to collaborate on **on any projects**
-
-- 🤝 I’m looking for help with **cracking leetcode**
 
 - 📫 How to reach me **axtoncahyadi@gmail.com**
 
