@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Axton Cahyadi</h1>
-<h3 align="center">Final year CompSci student at University of Sydney who loves building websites and making use of data.</h3>
+<h3>Graduating soon @University of Sydney. Im someone who loves new things from building websites to analyzing data to cloud computing to hacking into virtual machines</h3>
+
+<h3>Despite not having any financial background i also indulge myself in gathering knowledge to grow my wealth in as many ways as i possibly could.</h3>
+
+<h3>My favourite out-of-CS hobbies are mainly sports such as Tennis  🎾 , Badminton 🏸 , Padel  🎾 and Volleyball 🏐 .</h3>
+
 
 <a href="https://github.com/Axtonn/Project-list">My Project List</a>
-<br>
+
 <a href="https://drive.google.com/drive/folders/13z_P0sAeQmQ9jQTg1x1oqx_2B4zYhv8T?usp=drive_link">Certifications</a>
 
 - 🔭 I’m currently working on **<a href="https://github.com/Axtonn/BakeADay">A Bake A Day Website</a>**
@@ -14,8 +19,6 @@
 - 📫 How to reach me **axtoncahyadi@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/axton-cahyadi-378115233](www.linkedin.com/in/axton-cahyadi-378115233)
-
-- ⚡ Fun fact **I play alotta sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
