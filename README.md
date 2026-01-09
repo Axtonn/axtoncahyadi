@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axton Cahyadi</h1>
-<h3>Graduating soon @University of Sydney. Im someone who loves new things from building websites to analyzing data to cloud computing to hacking into virtual machines</h3>
+<h3>Recent grad from University of Sydney. Im someone who loves new things from building websites to analyzing data to cloud computing to hacking into virtual machines. I would describe myself as someone with fighting spirit and willingness to learn and adapt to my environment as much as i could. I love taking up new skills and hobbies in any aspect as i want to challenge myself in everything that i do. </h3>
 
-<h3>Despite not having any financial background i also indulge myself in gathering knowledge to grow my wealth in as many ways as i possibly could.</h3>
+<h3> Currently polishing my website to showcase my full stack proficiencies and workflow capabilities. Do check it out below.</h3>
 
 <h3>My favourite out-of-CS hobbies are mainly sports such as Tennis  🎾 , Badminton 🏸 , Padel  🎾 and Volleyball 🏐 .</h3>
 
